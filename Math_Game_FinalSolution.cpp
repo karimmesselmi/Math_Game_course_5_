@@ -278,5 +278,7 @@ void StartGame()
 
 int main()
 {
-    cout << "Hello World!\n";
+        srand((unsigned)time(NULL)); 
+    StartGame();
+    return 0;
 }
