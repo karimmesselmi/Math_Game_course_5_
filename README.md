@@ -32,7 +32,7 @@ This project was built as part of the practical applications in the **"Algorithm
 - **Functions** — each task is handled by a small, focused, independent function
 - **Random number generation** — for generating question numbers based on level
 - **Screen color control** — visual feedback using `system("color")`
-- **Data Validation** — division by zero is handled safely
+
 
 ---
 
